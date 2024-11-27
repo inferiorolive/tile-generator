@@ -1,1 +1,1 @@
-# tiles_project
+# tile-generator
